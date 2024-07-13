@@ -1,2 +1,5 @@
 # tic-tac-toe
-A simple 2-player Tic-Tac-Toe app
+
+A simple web app for a 2-player game
+
+Link to game: 
